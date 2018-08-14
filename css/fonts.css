@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Noto Sans KR";
+   src: url("../fonts/NotoSans-Light.eot"); /* IE9 Compat Modes */
+   src: url("../fonts/NotoSans-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("../fonts/NotoSans-Light.woff") format("woff"), /* Modern Browsers */
+        url("../fonts/NotoSans-Light.woff2") format("woff2"), /* Modern Browsers */
+	      url("../fonts/NotoSans-Light.otf")  format("truetype"); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  300;
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+  src: url("../fonts/NotoSans-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/NotoSans-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+       url("../fonts/NotoSans-Regular.woff") format("woff"), /* Modern Browsers */
+       url("../fonts/NotoSans-Regular.woff2") format("woff2"), /* Modern Browsers */
+       url("../fonts/NotoSans-Regular.otf")  format("truetype"); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+  src: url("../fonts/NotoSans-Medium.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/NotoSans-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+       url("../fonts/NotoSans-Medium.woff") format("woff"), /* Modern Browsers */
+       url("../fonts/NotoSans-Medium.woff2") format("woff2"), /* Modern Browsers */
+	     url("../fonts/NotoSans-Medium.otf")  format("truetype"); /* Safari, Android, iOS */
+  font-style:   normal;
+  font-weight:  500;
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+   src: url("../fonts/NotoSans-Bold.eot"); /* IE9 Compat Modes */
+   src: url("../fonts/NotoSans-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("../fonts/NotoSans-Bold.woff") format("woff"), /* Modern Browsers */
+        url("../fonts/NotoSans-Bold.woff2") format("woff2"), /* Modern Browsers */
+	      url("../fonts/NotoSans-Bold.otf")  format("truetype"); /* Safari, Android, iOS */
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+   src: url("../fonts/NotoSans-Black.eot"); /* IE9 Compat Modes */
+   src: url("../fonts/NotoSans-Black.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("../fonts/NotoSans-Black.woff") format("woff"), /* Modern Browsers */
+        url("../fonts/NotoSans-Black.woff2") format("woff2"), /* Modern Browsers */
+	      url("../fonts/NotoSans-Black.otf")  format("truetype"); /* Safari, Android, iOS */
+  font-style:   normal;
+  font-weight:  900;
+}
